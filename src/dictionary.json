@@ -1,0 +1,377 @@
+{
+  " ": {
+    "code": "%20"
+  },
+  "A": {
+    "bold": "𝗔",
+    "bold-code": "%F0%9D%97%94",
+    "italic": "𝘈",
+    "italic-code": "%F0%9D%98%88"
+  },
+  "B": {
+    "bold": "𝗕",
+    "bold-code": "%F0%9D%97%95",
+    "italic": "𝘉",
+    "italic-code": "%F0%9D%98%89"
+  },
+  "C": {
+    "bold": "𝗖",
+    "bold-code": "%F0%9D%97%96",
+    "italic": "𝘊",
+    "italic-code": "%F0%9D%98%8A"
+  },
+  "D": {
+    "bold": "𝗗",
+    "bold-code": "%F0%9D%97%97",
+    "italic": "𝘋",
+    "italic-code": "%F0%9D%98%8B"
+  },
+  "E": {
+    "bold": "𝗘",
+    "bold-code": "%F0%9D%97%98",
+    "italic": "𝘌",
+    "italic-code": "%F0%9D%98%8C"
+  },
+  "F": {
+    "bold": "𝗙",
+    "bold-code": "%F0%9D%97%99",
+    "italic": "𝘍",
+    "italic-code": "%F0%9D%98%8D"
+  },
+  "G": {
+    "bold": "𝗚",
+    "bold-code": "%F0%9D%97%9A",
+    "italic": "𝘎",
+    "italic-code": "%F0%9D%98%8E"
+  },
+  "H": {
+    "bold": "𝗛",
+    "bold-code": "%F0%9D%97%9B",
+    "italic": "𝘏",
+    "italic-code": "%F0%9D%98%8F"
+  },
+  "I": {
+    "bold": "𝗜",
+    "bold-code": "%F0%9D%97%9C",
+    "italic": "𝘐",
+    "italic-code": "%F0%9D%98%90"
+  },
+  "J": {
+    "bold": "𝗝",
+    "bold-code": "%F0%9D%97%9D",
+    "italic": "𝘑",
+    "italic-code": "%F0%9D%98%91"
+  },
+  "K": {
+    "bold": "𝗞",
+    "bold-code": "%F0%9D%97%9E",
+    "italic": "𝘒",
+    "italic-code": "%F0%9D%98%92"
+  },
+  "L": {
+    "bold": "𝗟",
+    "bold-code": "%F0%9D%97%9F",
+    "italic": "𝘓",
+    "italic-code": "%F0%9D%98%93"
+  },
+  "M": {
+    "bold": "𝗠",
+    "bold-code": "%F0%9D%97%A0",
+    "italic": "𝘔",
+    "italic-code": "%F0%9D%98%94"
+  },
+  "N": {
+    "bold": "𝗡",
+    "bold-code": "%F0%9D%97%A1",
+    "italic": "𝘕",
+    "italic-code": "%F0%9D%98%95"
+  },
+  "O": {
+    "bold": "𝗢",
+    "bold-code": "%F0%9D%97%A2",
+    "italic": "𝘖",
+    "italic-code": "%F0%9D%98%96"
+  },
+  "P": {
+    "bold": "𝗣",
+    "bold-code": "%F0%9D%97%A3",
+    "italic": "𝘗",
+    "italic-code": "%F0%9D%98%97"
+  },
+  "Q": {
+    "bold": "𝗤",
+    "bold-code": "%F0%9D%97%A4",
+    "italic": "𝘘",
+    "italic-code": "%F0%9D%98%98"
+  },
+  "R": {
+    "bold": "𝗥",
+    "bold-code": "%F0%9D%97%A5",
+    "italic": "𝘙",
+    "italic-code": "%F0%9D%98%99"
+  },
+  "S": {
+    "bold": "𝗦",
+    "bold-code": "%F0%9D%97%A6",
+    "italic": "𝘚",
+    "italic-code": "%F0%9D%98%9A"
+  },
+  "T": {
+    "bold": "𝗧",
+    "bold-code": "%F0%9D%97%A7",
+    "italic": "𝘛",
+    "italic-code": "%F0%9D%98%9B"
+  },
+  "U": {
+    "bold": "𝗨",
+    "bold-code": "%F0%9D%97%A8",
+    "italic": "𝘜",
+    "italic-code": "%F0%9D%98%9C"
+  },
+  "V": {
+    "bold": "𝗩",
+    "bold-code": "%F0%9D%97%A9",
+    "italic": "𝘝",
+    "italic-code": "%F0%9D%98%9D"
+  },
+  "W": {
+    "bold": "𝗪",
+    "bold-code": "%F0%9D%97%AA",
+    "italic": "𝘞",
+    "italic-code": "%F0%9D%98%9E"
+  },
+  "X": {
+    "bold": "𝗫",
+    "bold-code": "%F0%9D%97%AB",
+    "italic": "𝘟",
+    "italic-code": "%F0%9D%98%9F"
+  },
+  "Y": {
+    "bold": "𝗬",
+    "bold-code": "%F0%9D%97%AC",
+    "italic": "𝘠",
+    "italic-code": "%F0%9D%98%A0"
+  },
+  "Z": {
+    "bold": "𝗭",
+    "bold-code": "%F0%9D%97%AD",
+    "italic": "𝘡",
+    "italic-code": "%F0%9D%98%A1"
+  },
+  "a": {
+    "bold": "𝗮",
+    "bold-code": "%F0%9D%97%AE",
+    "italic": "𝘢",
+    "italic-code": "%F0%9D%98%A2"
+  },
+  "b": {
+    "bold": "𝗯",
+    "bold-code": "%F0%9D%97%AF",
+    "italic": "𝘣",
+    "italic-code": "%F0%9D%98%A3"
+  },
+  "c": {
+    "bold": "𝗰",
+    "bold-code": "%F0%9D%97%B0",
+    "italic": "𝘤",
+    "italic-code": "%F0%9D%98%A4"
+  },
+  "d": {
+    "bold": "𝗱",
+    "bold-code": "%F0%9D%97%B1",
+    "italic": "𝘥",
+    "italic-code": "%F0%9D%98%A5"
+  },
+  "e": {
+    "bold": "𝗲",
+    "bold-code": "%F0%9D%97%B2",
+    "italic": "𝘦",
+    "italic-code": "%F0%9D%98%A6"
+  },
+  "f": {
+    "bold": "𝗳",
+    "bold-code": "%F0%9D%97%B3",
+    "italic": "𝘧",
+    "italic-code": "%F0%9D%98%A7"
+  },
+  "g": {
+    "bold": "𝗴",
+    "bold-code": "%F0%9D%97%B4",
+    "italic": "𝘨",
+    "italic-code": "%F0%9D%98%A8"
+  },
+  "h": {
+    "bold": "𝗵",
+    "bold-code": "%F0%9D%97%B5",
+    "italic": "𝘩",
+    "italic-code": "%F0%9D%98%A9"
+  },
+  "i": {
+    "bold": "𝗶",
+    "bold-code": "%F0%9D%97%B6",
+    "italic": "𝘪",
+    "italic-code": "%F0%9D%98%AA"
+  },
+  "j": {
+    "bold": "𝗷",
+    "bold-code": "%F0%9D%97%B7",
+    "italic": "𝘫",
+    "italic-code": "%F0%9D%98%AB"
+  },
+  "k": {
+    "bold": "𝗸",
+    "bold-code": "%F0%9D%97%B8",
+    "italic": "𝘬",
+    "italic-code": "%F0%9D%98%AC"
+  },
+  "l": {
+    "bold": "𝗹",
+    "bold-code": "%F0%9D%97%B9",
+    "italic": "𝘭",
+    "italic-code": "%F0%9D%98%AD"
+  },
+  "m": {
+    "bold": "𝗺",
+    "bold-code": "%F0%9D%97%BA",
+    "italic": "𝘮",
+    "italic-code": "%F0%9D%98%AE"
+  },
+  "n": {
+    "bold": "𝗻",
+    "bold-code": "%F0%9D%97%BB",
+    "italic": "𝘯",
+    "italic-code": "%F0%9D%98%AF"
+  },
+  "o": {
+    "bold": "𝗼",
+    "bold-code": "%F0%9D%97%BC",
+    "italic": "𝘰",
+    "italic-code": "%F0%9D%98%B0"
+  },
+  "p": {
+    "bold": "𝗽",
+    "bold-code": "%F0%9D%97%BD",
+    "italic": "𝘱",
+    "italic-code": "%F0%9D%98%B1"
+  },
+  "q": {
+    "bold": "𝗾",
+    "bold-code": "%F0%9D%97%BE",
+    "italic": "𝘲",
+    "italic-code": "%F0%9D%98%B2"
+  },
+  "r": {
+    "bold": "𝗿",
+    "bold-code": "%F0%9D%97%BF",
+    "italic": "𝘳",
+    "italic-code": "%F0%9D%98%B3"
+  },
+  "s": {
+    "bold": "𝘀",
+    "bold-code": "%F0%9D%98%80",
+    "italic": "𝘴",
+    "italic-code": "%F0%9D%98%B4"
+  },
+  "t": {
+    "bold": "𝘁",
+    "bold-code": "%F0%9D%98%81",
+    "italic": "𝘵",
+    "italic-code": "%F0%9D%98%B5"
+  },
+  "u": {
+    "bold": "𝘂",
+    "bold-code": "%F0%9D%98%82",
+    "italic": "𝘶",
+    "italic-code": "%F0%9D%98%B6"
+  },
+  "v": {
+    "bold": "𝘃",
+    "bold-code": "%F0%9D%98%83",
+    "italic": "𝘷",
+    "italic-code": "%F0%9D%98%B7"
+  },
+  "w": {
+    "bold": "𝘄",
+    "bold-code": "%F0%9D%98%84",
+    "italic": "𝘸",
+    "italic-code": "%F0%9D%98%B8"
+  },
+  "x": {
+    "bold": "𝘅",
+    "bold-code": "%F0%9D%98%85",
+    "italic": "𝘹",
+    "italic-code": "%F0%9D%98%B9"
+  },
+  "y": {
+    "bold": "𝘆",
+    "bold-code": "%F0%9D%98%86",
+    "italic": "𝘺",
+    "italic-code": "%F0%9D%98%BA"
+  },
+  "z": {
+    "bold": "𝘇",
+    "bold-code": "%F0%9D%98%87",
+    "italic": "𝘻",
+    "italic-code": "%F0%9D%98%BB"
+  },
+  "0": {
+    "bold": "𝟬",
+    "bold-code": "%F0%9D%9F%AC",
+    "italic": "",
+    "italic-code": null
+  },
+  "1": {
+    "bold": "𝟭",
+    "bold-code": "%F0%9D%9F%AD",
+    "italic": "",
+    "italic-code": null
+  },
+  "2": {
+    "bold": "𝟮",
+    "bold-code": "%F0%9D%9F%AE",
+    "italic": "",
+    "italic-code": null
+  },
+  "3": {
+    "bold": "𝟯",
+    "bold-code": "%F0%9D%9F%AF",
+    "italic": "",
+    "italic-code": null
+  },
+  "4": {
+    "bold": "𝟰",
+    "bold-code": "%F0%9D%9F%B0",
+    "italic": "",
+    "italic-code": null
+  },
+  "5": {
+    "bold": "𝟱",
+    "bold-code": "%F0%9D%9F%B1",
+    "italic": "",
+    "italic-code": null
+  },
+  "6": {
+    "bold": "𝟲",
+    "bold-code": "%F0%9D%9F%B2",
+    "italic": "",
+    "italic-code": null
+  },
+  "7": {
+    "bold": "𝟳",
+    "bold-code": "%F0%9D%9F%B3",
+    "italic": "",
+    "italic-code": null
+  },
+  "8": {
+    "bold": "𝟴",
+    "bold-code": "%F0%9D%9F%B4",
+    "italic": "",
+    "italic-code": null
+  },
+  "9": {
+    "bold": "𝟵",
+    "bold-code": "%F0%9D%9F%B5",
+    "italic": "",
+    "italic-code": null
+  }
+}
