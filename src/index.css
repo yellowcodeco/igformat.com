@@ -247,13 +247,14 @@ form #formatter-textarea a[href="#bold"] {
   font-weight: bold;
 }
 
-form #formatter-textarea a[href="#normal"] {
+form #formatter-textarea a[href="#italic"] {
   right: 81px;
-  border-top-left-radius: 3px;
+  font-style: italic;
 }
 
-form #formatter-textarea a[href="#italic"] {
-  font-style: italic;
+form #formatter-textarea a[href="#normal"] {
+  right: 121px;
+  border-top-left-radius: 3px;
 }
 
 form #formatter-textarea a span {
@@ -277,8 +278,6 @@ form textarea {
 
 form button {
   background: #0085e1;
-  /* background: #8d25b5; */
-  /* background: #f1007c; */
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -411,9 +410,6 @@ aside #post-bottom {
   background: #fff;
   height: auto;
   width: 100%;
-}
-
-aside #post-bottom-icons {
 }
 
 aside #post-bottom-caption {
