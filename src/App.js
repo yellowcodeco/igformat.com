@@ -5,8 +5,8 @@ import Dictionary from "./dictionary.json";
 import MobileDetect from "mobile-detect";
 
 // MAIN COMPONENT
-const App = props => {
-  // States
+const App = () => {
+  // States / Vars
   const toCopy = useRef(null);
   const [alert, setAlert] = useState(false);
   const [caption, setCaption] = useState("");
@@ -22,6 +22,7 @@ const App = props => {
   const getCaptionShort = text => {
     const re = new RegExp("↵", "g");
     let copyText = text.replace(re, "<br/>");
+    copyText = window.decodeURI(copyText); // Add support for emojis
     return { __html: copyText };
   };
 
@@ -190,16 +191,6 @@ const App = props => {
                     onClick={formatStyle("italic")}
                   >
                     i
-                  </a>
-                  <a id="formatter-emoji" href="#emoji">
-                    <span
-                      role="img"
-                      arial-label="Slightly Smiling Face"
-                      aria-labelledby="Slightly Smiling Face"
-                    >
-                      {" "}
-                      ☺
-                    </span>
                   </a>
                 </>
               )}

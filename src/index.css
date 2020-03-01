@@ -243,17 +243,17 @@ form #formatter-textarea a:hover {
 }
 
 form #formatter-textarea a[href="#bold"] {
-  right: 41px;
+  right: 0;
   font-weight: bold;
 }
 
 form #formatter-textarea a[href="#italic"] {
-  right: 81px;
+  right: 41px;
   font-style: italic;
 }
 
 form #formatter-textarea a[href="#normal"] {
-  right: 121px;
+  right: 81px;
   border-top-left-radius: 3px;
 }
 
