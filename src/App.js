@@ -66,11 +66,12 @@ const App = () => {
    * @returns {void}
    */
   const formatText = value => {
+    // let input = window.encodeURI(value);
     let input = window
       .encodeURI(value)
       .split(/%0A/g)
       .map(i => i.replace(/((%20)+)$/g, ""))
-      .join("↵\n");
+      .join("\n");
 
     // Remove Spaces
     let re = new RegExp(`${Dictionary[" "]["code"]}`, "g");

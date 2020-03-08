@@ -496,3 +496,8 @@ footer p a {
     max-width: 570px;
   }
 }
+
+section pre {
+  background: #efefef;
+  padding: 20px;
+}
