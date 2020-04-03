@@ -66,11 +66,11 @@ const App = () => {
    * @returns {void}
    */
   const formatText = value => {
-    // let input = window.encodeURI(value);
     let input = window
       .encodeURI(value)
       .split(/%0A/g)
       .map(i => i.replace(/((%20)+)$/g, ""))
+      .map(i => (i.length === 0 ? "%0A" : i))
       .join("\n");
 
     // Remove Spaces
@@ -83,7 +83,16 @@ const App = () => {
       re = new RegExp(`${Dictionary[i]["italic-code"]}`, "g");
       input = input.replace(re, Dictionary[i]["italic"]);
     }
-    setConverted(input);
+    return input;
+  };
+
+  /**
+   * Handles formatting the text and then updating the state of setConverted
+   * @param {String} value
+   * @returns {void}
+   */
+  const formatAndSetConverted = value => {
+    setConverted(formatText(value));
   };
 
   /**
@@ -93,7 +102,7 @@ const App = () => {
    */
   const onChangeTextarea = event => {
     setCaption(event.target.value);
-    formatText(event.target.value);
+    formatAndSetConverted(event.target.value);
   };
 
   /**
@@ -118,7 +127,7 @@ const App = () => {
     }
     newCaption = `${caption.slice(0, start)}${newCaption}${caption.slice(end)}`;
     setCaption(newCaption);
-    formatText(newCaption);
+    formatAndSetConverted(newCaption);
     event.preventDefault();
   };
 
